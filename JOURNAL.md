@@ -9,7 +9,13 @@ Here's a picture for proof I did it.
 <img width="1285" height="740" alt="image" src="https://github.com/user-attachments/assets/501e38f2-362e-4997-8056-de1b2e7a87b8" />
 
 Monday 21st September 2026 20:00 - 2 hours
-Today, I made started my PCB Editor.
+Today, I started my PCB Editor.
 I put all the switches into the keyboard rectangle that I drew, then I changed some of the switches size in the assign footprints tab.
 I then even added a few diodes and then linked them to the switches.
 <img width="857" height="372" alt="image" src="https://github.com/user-attachments/assets/5d2ee905-4b21-4892-b75c-6af63211aea3" />
+
+Wednesday 23rd September 2026 - 2 hours
+Today, I connected all the route traces horizontally, and vertically.
+Here's proof I actually did it.
+<img width="1522" height="776" alt="image" src="https://github.com/user-attachments/assets/71366724-1ac8-4079-969e-7f8263ee956d" />
+<img width="1521" height="661" alt="image" src="https://github.com/user-attachments/assets/a0a59d33-ad4a-4a1c-b48d-2600628ea8ab" />
